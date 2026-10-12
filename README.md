@@ -5,8 +5,8 @@ I build small AI products where every answer traces back to its source, mostly o
 Live products:
 
 - [ParlIQ](https://parliq.feldberg.co): plain-English questions on the UK Parliament, every answer cited. Used by the team of former DCMS committee chair Damian Collins.
-- [AI Burnham](https://burnhamai.feldberg.co): the Prime Minister’s public record, with every quote checked word for word against its source.
-- [Hansard connector](https://hansard-mcp.feldberg.co): an MCP server I host that gives AI assistants sourced access to Hansard.
+- [AI Burnham](https://burnhamai.feldberg.co): the UK Prime Minister’s public record, with every quote checked word for word against its source.
+- [Hansard connector](https://hansard-mcp.feldberg.co): an MCP server I host, built on an open-source package, that gives AI assistants sourced access to Hansard.
 
 Code here:
 
