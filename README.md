@@ -12,7 +12,6 @@ Code here:
 
 - [hansard-mcp](https://github.com/PepoBCN/hansard-mcp): the Hansard connector's server.
 - [parliament-mcp](https://github.com/PepoBCN/parliament-mcp): ParlIQ's select committee evidence as 14 MCP tools, with live end-to-end tests.
-- [ship-check](https://github.com/PepoBCN/ship-check): checks that a live app serves real data, catching pages that return 200 with nothing in them.
 
 Side project: [b-side](https://github.com/PepoBCN/b-side), a free Mac app that plays YouTube as your wallpaper on every screen, with sound.
 
