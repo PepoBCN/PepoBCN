@@ -13,7 +13,10 @@ Code here:
 - [hansard-mcp](https://github.com/PepoBCN/hansard-mcp): the Hansard connector's server.
 - [parliament-mcp](https://github.com/PepoBCN/parliament-mcp): ParlIQ's select committee evidence as 14 MCP tools, with live end-to-end tests.
 
-Side project: [b-side](https://github.com/PepoBCN/b-side), a free Mac app that plays YouTube as your wallpaper on every screen, with sound.
+Side projects:
+
+- [b-side](https://github.com/PepoBCN/b-side): a free Mac app that plays YouTube as your wallpaper on every screen, with sound.
+- [youtube-to-sonos](https://github.com/PepoBCN/youtube-to-sonos): a Chrome extension that plays any YouTube video on your Sonos speakers, from where you were.
 
 Before this, almost 20 years leading digital and communications work for the UK Parliament, the UN, foundations and large networks, including disinformation research for the DCMS Select Committee.
 
